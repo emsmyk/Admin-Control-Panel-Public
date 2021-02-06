@@ -1,0 +1,150 @@
+"Phrases"
+{
+	"Title_Stop_Sounds"
+	{
+		"pt"		"Munu Sons do Jogo."
+		"en"		"Stop Sound."
+		"pl"		"Zatrzymaj Dzwięki."
+	}
+
+	"Volume Menu Title"
+	{
+		"pt"		"Menu Volume."
+		"en"		"Volume Menu."
+		"pl"		"Poziom Głośności."
+	}
+
+	"WeaponsSounds"
+	{
+		"pt"		"Som das Armas:"
+		"en"		"Wepons Sounds:"
+		"pl"		"Dźwięk Broni:"
+	}
+
+	"Musicmap_Sounds"
+	{
+		"pt"		"Musicas do Mapa:"
+		"en"		"Music Map:"
+		"pl"		"Muzyka Mapy:"
+	}
+
+	"ON"
+	{
+		"pt"		"Ligada"
+		"en"		"On"
+		"pl"		"Włączona"
+	}
+
+	"OFF"
+	{
+		"pt"		"Desligada"
+		"en"		"Off"
+		"pl"		"Wyłączona"
+	}
+
+	"C_ON"
+	{
+		"pt"		"{RED}Ligada."
+		"en"		"{RED}On."
+		"pl"		"{RED}Włączona."
+	}
+
+	"C_OFF"
+	{
+		"pt"		"{RED}Desligada."
+		"en"		"{RED}Off."
+		"pl"		"{RED}Wyłączona."
+	}
+
+	"Map_volume"
+	{
+		"pt"		"Volume do Mapa:"
+		"en"		"Map Volume:"
+		"pl"		"Głośność Muzyki Mapy:"
+	}
+
+	"Porcento"
+	{
+		"en"	  	"%"
+	}
+
+	"v100"
+	{
+		"en"	  	"100%"
+	}
+
+	"v75"
+	{
+		"en"	  	"75%"
+	}
+
+	"v50"
+	{
+		"en"	  	"50%"
+	}
+
+	"v25"
+	{
+		"en"	  	"25%"
+	}
+
+	"v10"
+	{
+		"en"	  	"10%"
+	}
+
+	"v05"
+	{
+		"en"	  	"5%"
+	}
+
+	"CenterWeaponsSounds"
+	{
+		"pt"		"O Som das Armas Foram:"
+		"en"		"The Sound of Weapons Were:"
+		"pl"		"Dźwięki Broni:"
+	}
+
+	"ChatWeaponsSounds"
+	{
+		"pt"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}O Som das Armas Foram:"
+		"en"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}The Sound of Weapons Were:"
+		"pl"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}Dźwięk Strzałów:"
+	}
+	
+	"CenterMusicMapSounds"
+	{
+		"pt"		"As Músicas do Mapa Foram:"
+		"en"		"The Map Songs Were:"
+		"pl"		"Piosenki mapy:"
+	}
+
+	"ChatMusicMapSounds"
+	{
+		"pt"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}As Músicas do Mapa Foram:"
+		"en"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}The Map Songs Were:"
+		"pl"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}Piosenki Mapy:"
+	}
+
+	"Center_Volume_Set"
+	{
+		"pt"		"O Volume do Mapa Foi Alterado Para:"
+		"en"		"Map Volume Has Been Changed To:"
+		"pl"		"Poziom głośności dźwięków mapy został zmieniony na"
+	}
+
+	"Chat_Volume_Set"
+	{
+		"pt"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}O Volume do Mapa Foi Alterado Para:"
+		"en"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}Map Volume Has Been Changed To:"
+		"pl"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}Poziom głośności dźwięków mapy został zmieniony na"
+	}
+
+	"Chat_Notice"
+	{
+		"pt"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}As Musicas do Mapa Estão Desativadas,Para Alterar Digite {RED}!music {OLIVE}no chat!"
+		"en"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}Map Songs Are Disabled, To Change Enter {RED}!music {OLIVE}the chat!"
+		"pl"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}Dźwięki mapy są wyłączone, aby to zmienić wpisz {RED}!music"
+	}
+
+}

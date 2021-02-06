@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"nlr_warning"
+	{
+		"en"		"Your name has been changed. Advertising in name is prohibited!"
+		"pl"		"Twój nick został zmieniony. Reklamy w nicku irytują graczy!"
+	}
+}

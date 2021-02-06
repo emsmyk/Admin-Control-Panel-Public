@@ -1,0 +1,55 @@
+"Phrases"
+{
+	"VOLUME"
+	{
+		"en" 		"Volume"
+		"pt" 		"Volume"
+		"fr"		"Volume"
+		"pl"		"Glosnosc"
+	}
+	"JoinMsg"
+	{
+		"en"		"Type {lightgreen}!res {default}to disable/enable the round end sounds."
+		"pt" 		"Digite {lightgreen}!res {default}para desativar/ativar os sons no fim da rodada."
+		"fr"		"Tapez {lightgreen}!rss {default} pour desactiver/activer les sons a la fin de la manche."
+		"pl"		"Wpisz {lightgreen}!res {default} aby wlaczyc/wylaczyc muzyke na koniec rundy."
+	}
+	"Selected"
+	{
+		"en"	  	"(X)"
+		"pt" 		"(X)"
+		"fr"		"(X)"
+		"pl"		"(X)"
+	}
+
+	"Sound Menu Title"
+	{
+		"en" 		"Select sound volume"
+		"pt"		"Selecione o volume dos sons"
+		"fr"		"Selectionnez le volume de la musique"
+		"pl"		"Wybierz glosnosc"
+	}
+
+	"RES_ON"
+	{
+		"en"	  	"Sounds ON."
+		"pt"		"Sons Ativados."
+		"fr"		"Son ACTIVE."
+		"pl"		"Muzyka Wlaczona"
+	}
+	"RES_OFF"
+	{
+		"en"	  	"No Sounds."
+		"pt" 		"Sem sons."
+		"fr"		"Son DESACTIVE."
+		"pl"		"Muzyka Wylaczona"
+	}
+	"mp3 print"
+	{
+		"#format"	 "{1:s}"
+		"en" 		 "Now playing {green}{1}"
+		"pt"		 "Tocando {green}{1}"
+		"fr"		 "Lecture en cours:{green}{1}"
+		"pl"		 "Aktualnie gramy:{green}{1}"
+	}
+}
